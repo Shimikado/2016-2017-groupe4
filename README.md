@@ -38,7 +38,7 @@ Mehdi MALAMELLI
 <h3>Général</h3>
 <p>
 <ul>
-<li>Béflexions approfondies sur notre projet de jeu</li>
+<li>Réflexions approfondies sur notre projet de jeu</li>
 <li style="color:blue">Brainstorming</li>
 </ul>
 </p>
