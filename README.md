@@ -42,3 +42,13 @@ Mehdi MALAMELLI
 <li style="color:blue">Brainstorming</li>
 </ul>
 </p>
+<h2><strong>27/01</strong></h2>
+<h3>Général</h3>
+<p>
+<ul>
+<li>Avancées dans le projet de jeu (entitées, obstacles, collisions)</li>
+<li>Pull request documentations</li>
+<li>Rédaction d'un guide de démarrage</li>
+<li>Travail sur des move strategies (pattern strategy)</li>
+</ul>
+</p>
