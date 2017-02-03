@@ -38,17 +38,30 @@ Mehdi MALAMELLI
 <h3>Général</h3>
 <p>
 <ul>
-<li>Réflexions approfondies sur notre projet de jeu</li>
+<li>Béflexions approfondies sur notre projet de jeu</li>
 <li style="color:blue">Brainstorming</li>
+<li>Déplacement d'une entité sur le canvas</li>
 </ul>
 </p>
 <h2><strong>27/01</strong></h2>
 <h3>Général</h3>
 <p>
 <ul>
-<li>Avancées dans le projet de jeu (entitées, obstacles, collisions)</li>
-<li>Pull request documentations</li>
-<li>Rédaction d'un guide de démarrage</li>
-<li>Travail sur des move strategies (pattern strategy)</li>
+<li>Avancement sur le développement d'un prototype</li>
+<li> Création d'une documentation générale et d'un tutoriel anglais/français pour une première approche sur le framework</li>
+<li>Importation du framework mis à jour à partir du git de la classe </li> 
+</ul>
+<h2><strong>03/02</strong></h2>
+<h3>Général</h3>
+<ul>
+<li>Résolution du problème de trajectoire de l'ennemi : la position du joueur est défini par le framework, il ne fallait donc pas actualiser "à la main" la position du joueur via la fonction draw() dans PlayerTest.java </li>
+<li>TO DO :</li>
+<ul>
+<li>Ajouter le @ du repo</li>
+<li>Tests, préciser la couverture</li>
+<li>README à jour</li>
+<li>clore les pull request en cours</li>
+<li>Listes de "vrais" projets pour la suite</li>
+</ul>
 </ul>
 </p>
