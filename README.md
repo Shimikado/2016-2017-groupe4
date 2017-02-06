@@ -57,8 +57,8 @@ Mehdi MALAMELLI
 <li>Résolution du problème de trajectoire de l'ennemi : la position du joueur est défini par le framework, il ne fallait donc pas actualiser "à la main" la position du joueur via la fonction draw() dans PlayerTest.java </li>
 <li>TO DO :</li>
 <ul>
-<li>Ajouter le @ du repo</li>
-<li>Tests, préciser la couverture</li>
+<li>https://github.com/Shimikado/opendev (le jeu présenté est NicolasDoge et CatchThem est un autre jeu développé mais ne fonctionne pas en utilisant mvn exec </li>
+<li>pas de tests</li>
 <li>README à jour</li>
 <li>clore les pull request en cours</li>
 <li>Listes de "vrais" projets pour la suite</li>
