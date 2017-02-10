@@ -75,6 +75,7 @@ Recherches de projets, plusieurs projets possibles ont étés trouvés :
 <li>Exercism</li>
 <li>Bots du Discord</li>
 <li>Hearthstone Deck Tracker</li>
+<li>Overcollector</li>
 </ul>
 <li>Mehdi et Benjamin actuellment sur Better Discord</li>
 <li>Thibault, Corentin et Bastien actuellement sur Exercism (installation ,tests d'exercices, idée d'ajouts...)</li>
