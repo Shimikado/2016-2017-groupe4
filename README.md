@@ -74,8 +74,7 @@ Recherches de projets, plusieurs projets possibles ont étés trouvés :
 <li>LibGDX</li>
 <li> <a href="http://exercism.io">Exercism</a> : ecriture d'exercices en  <a href="http://exercism.io/languagejava/todo">java</a></li> 
 <li>Bots du Discord</li>
-<li> </li>
-<li><a href="https://github.com/Tititesouris/Overcollector"> </a> Overcollector</li>
+<li><a href="https://github.com/Tititesouris/Overcollector">Overcollector </a> </li>
 </ul>
 <li>Mehdi et Benjamin actuellement sur Better Discord</li>
 <li>Thibault, Corentin et Bastien actuellement sur Exercism (installation ,tests d'exercices, idée d'ajouts...)</li>
