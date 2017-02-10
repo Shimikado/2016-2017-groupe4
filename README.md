@@ -65,3 +65,20 @@ Mehdi MALAMELLI
 </ul>
 </ul>
 </p>
+<h2><strong>10/02</strong></h2>
+<h3>Général</h3>
+<ul>
+<ul>
+Recherches de projets, plusieurs projets possibles ont étés trouvés :
+<li>Better discord</li>
+<li>LibGDX</li>
+<li>Exercism</li>
+<li>Bots du Discord</li>
+<li>Hearthstone Deck Tracker</li>
+</ul>
+<li>Mehdi et Benjamin actuellment sur Better Discord</li>
+<li>Thibault, Corentin et Bastien actuellement sur Exercism (installation ,tests d'exercices, idée d'ajouts...)</li>
+<li></li>
+</ul>
+</ul>
+</p>
