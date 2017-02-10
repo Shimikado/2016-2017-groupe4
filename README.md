@@ -72,7 +72,7 @@ Mehdi MALAMELLI
 Recherches de projets, plusieurs projets possibles ont étés trouvés :
 <li>Better discord</li>
 <li>LibGDX</li>
-<li> <a href="http://exercism.io">Exercism</a> : ecriture d'exercices en  <a href="http://exercism.io/languagejava/todo">java</a></li> 
+<li> <a href="http://exercism.io">Exercism</a> 
 <li>Bots du Discord</li>
 <li><a href="https://github.com/Tititesouris/Overcollector">Overcollector </a> </li>
 </ul>
