@@ -82,7 +82,7 @@ Recherches de projets, plusieurs projets possibles ont étés trouvés :
 </ul>
 
 
-<h2><strong>10/02</strong></h2>
+<h2><strong>17/02</strong></h2>
 <h3>Thibault</h3>
 Je travaille actuellement sur l'implementation en Java de l'exercice  bookstore sur le projet Exercism
 Ma pull request indiquant que je travaille sur cette exercice : https://github.com/exercism/xjava/pull/310
