@@ -91,3 +91,7 @@ Ma <i>pull request</i> indiquant que je travaille sur cet exercice : https://git
 <h3>Bastien</h3>
 Je suis en train de travailler sur l'implémentation d'un exercice en Java consacré à la détection des isogrammes sur le projet <strong><a href="http://exercism.io/">Exercism</a></strong></br>
 Voici ma <a href="https://github.com/exercism/xjava/pull/311"><i>pull request</i></a> indiquant que je travaille sur l'exercice.
+
+<h2><strong>03/03</strong></h2>
+<h3>Bastien</h3>
+L'exercice étant fini d'être implémenté, j'ai modifié mon ancienne <a href="https://github.com/exercism/xjava/pull/311"><i>pull request</i></a> pour indiquer que mon exercice peut être ajouté au projet.
