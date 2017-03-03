@@ -84,10 +84,10 @@ Recherches de projets, plusieurs projets possibles ont étés trouvés :
 
 <h2><strong>17/02</strong></h2>
 <h3>Thibault</h3>
-Je travaille actuellement sur l'implementation en Java de l'exercice  <i>bookstore</i> sur le projet <strong><i>Exercism</i></strong></br>
+Je travaille actuellement sur l'implementation en Java de l'exercice  <i>bookstore</i> sur le projet <strong><a href="http://exercism.io/">Exercism</a></strong></br>
 Ma <i>pull request</i> indiquant que je travaille sur cet exercice : https://github.com/exercism/xjava/pull/310
 </p>
 
 <h3>Bastien</h3>
-Je suis en train de travailler sur l'implémentation d'un exercice en Java consacré à la détection des isogrammes sur le projet </strong><i><a href="http://exercism.io/">Exercism</a></i></strong></br>
+Je suis en train de travailler sur l'implémentation d'un exercice en Java consacré à la détection des isogrammes sur le projet <strong><a href="http://exercism.io/">Exercism</a></strong></br>
 Voici ma <a href="https://github.com/exercism/xjava/pull/311"><i>pull request</i></a> indiquant que je travaille sur l'exercice.
