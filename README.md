@@ -95,3 +95,6 @@ Voici ma <a href="https://github.com/exercism/xjava/pull/311"><i>pull request</i
 <h2><strong>03/03</strong></h2>
 <h3>Bastien</h3>
 L'exercice étant fini d'être implémenté, j'ai modifié mon ancienne <a href="https://github.com/exercism/xjava/pull/311"><i>pull request</i></a> pour indiquer que mon exercice peut être ajouté au projet.
+
+<h3>Thibault</h3>
+J'ai terminé d'implémenter l'exercice et j'ai mise à jour mon pull request afin de fournir le code que j'ai écris https://github.com/exercism/xjava/pull/310
