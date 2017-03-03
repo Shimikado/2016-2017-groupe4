@@ -101,11 +101,11 @@ J'ai terminé d'implémenter l'exercice et j'ai mise à jour mon pull request af
 
 <h3>Corentin</h3>
 J'ai réalisé 3 PR sur les deux dernières semaines :
-https://github.com/exercism/xc/pull/122 Création d'un exercice en C pour calculer l'age en année de planètes différentes.
+https://github.com/exercism/xc/pull/122 Création d'un exercice en C pour calculer l'âge en année de planètes différentes.
 Statut : merged
 https://github.com/exercism/xc/pull/125 Amélioration du code sur la PR ci-dessus suite à des feedbacks.
-Staut : en cours
+Statut : en cours
 https://github.com/exercism/x-common/pull/622 Correction d'une erreur dans l'énoncé d'un problème.
-Staut : en cours
+Statut : en cours
 Actuellement en train de créer un nouvel exercice en C, fini a 90%, PR d'ici la fin de la semaine.
 
