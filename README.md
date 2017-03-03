@@ -98,3 +98,14 @@ L'exercice étant fini d'être implémenté, j'ai modifié mon ancienne <a href=
 
 <h3>Thibault</h3>
 J'ai terminé d'implémenter l'exercice et j'ai mise à jour mon pull request afin de fournir le code que j'ai écris https://github.com/exercism/xjava/pull/310
+
+<h3>Corentin</h3>
+J'ai réalisé 3 PR sur les deux dernières semaines :
+https://github.com/exercism/xc/pull/122 Création d'un exercice en C pour calculer l'age en année de planètes différentes.
+Statut : merged
+https://github.com/exercism/xc/pull/125 Amélioration du code sur la PR ci-dessus suite à des feedbacks.
+Staut : en cours
+https://github.com/exercism/x-common/pull/622 Correction d'une erreur dans l'énoncé d'un problème.
+Staut : en cours
+Actuellement en train de créer un nouvel exercice en C, fini a 90%, PR d'ici la fin de la semaine.
+
