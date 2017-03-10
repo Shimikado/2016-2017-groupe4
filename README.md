@@ -109,3 +109,13 @@ https://github.com/exercism/x-common/pull/622 Correction d'une erreur dans l'én
 Statut : en cours
 Actuellement en train de créer un nouvel exercice en C, fini a 90%, PR d'ici la fin de la semaine.
 
+
+<h2><strong>10/03</strong></h2>
+<h3>Benjamin<h3>
+
+Communication avec la communauté de <a href="https://discord.js.org/#/" >DiscordJS</a> ( API pour discord en javascript) afin de comprendre comment fonctionne les bases de leurs algorithmes, ce qu'ils attendent de la communauté ... Cependant, la communauté étant plus qu'active, il est difficile de se pencher sur un problème et tenter de le résoudre avant qu'une autre personne n'y reponde.
+
+Analyse des problèmes résolu et à résoudre sur le <a href="https://github.com/hydrabolt/discord.js">git</a> associé.
+
+Communication avec différent discord spécialisé ( tel que <a href="https://discord.gg/gkZCQtH" >An Idiot's Guide Official</a>,<a href="http://discord.gg/discord-api">Discord API</a>,<a href="https://discordapp.com/invite/bRCvFy9">Discord JS</a>.
+
